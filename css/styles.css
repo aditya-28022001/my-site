@@ -62,3 +62,7 @@ a{
   width: 25%;
   float: left;
 }
+.dottedline{
+  width: 10%;
+  border-style: dotted;
+}
