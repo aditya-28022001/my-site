@@ -65,4 +65,5 @@ a{
 .dottedline{
   width: 10%;
   border-style: dotted none none;
+  border-color: #66BFBF;
 }
