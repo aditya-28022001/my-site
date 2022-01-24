@@ -48,6 +48,7 @@ a{
 }
 .profilephoto{
   border-radius: 50%;
+  padding: 10px;
 }
 .skill-row{
   width: 50%;
@@ -62,8 +63,9 @@ a{
   width: 25%;
   float: left;
 }
-.dottedline{
-  width: 10%;
+.dline{
+  width: 50%;
   border-style: dotted none none;
   border-color: #66BFBF;
+  border-width: 8px;
 }
