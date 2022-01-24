@@ -1,6 +1,7 @@
 body {
   margin: 0;
   text-align: center;
+  color: #40514E;
 }
 
 .top-container {
@@ -18,7 +19,7 @@ h2{
 font-family: 'Roboto', sans-serif;
 font-size: 2.5rem;
 margin: 0 0 50px 0;
-position: relative;
+/* position: relative; */
 left: 150px;
 color: #66BFBF;
 font-weight: normal;
@@ -31,6 +32,7 @@ a{
 }
 .subtitle{
   font-weight: normal;
+  position: relative;
 }
 
 
@@ -38,7 +40,7 @@ a{
   position: absolute;
   left: 300px;
   bottom: 300px;
-  padding: 20px;
+  padding: 20px 0 0 0;
 }
 .cloudtop{
   position: absolute;
@@ -48,7 +50,7 @@ a{
 }
 .profilephoto{
   border-radius: 50%;
-  padding: 10px;
+  padding-top: 40px;
 }
 .skill-row{
   width: 50%;
@@ -64,8 +66,8 @@ a{
   float: left;
 }
 .dline{
-  width: 50%;
+  width: 35%;
   border-style: dotted none none;
-  border-color: #66BFBF;
-  border-width: 8px;
+  border-color: #663300;
+  border-width: 12px;
 }
